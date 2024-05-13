@@ -1,0 +1,15 @@
+C:\Users\Anuar Espinoza\source\repos\Automovil\obj\Debug\net6.0\Automovil.csproj.AssemblyReference.cache
+C:\Users\Anuar Espinoza\source\repos\Automovil\obj\Debug\net6.0\Automovil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anuar Espinoza\source\repos\Automovil\obj\Debug\net6.0\Automovil.AssemblyInfoInputs.cache
+C:\Users\Anuar Espinoza\source\repos\Automovil\obj\Debug\net6.0\Automovil.AssemblyInfo.cs
+C:\Users\Anuar Espinoza\source\repos\Automovil\obj\Debug\net6.0\Automovil.csproj.CoreCompileInputs.cache
+C:\Users\Anuar Espinoza\source\repos\Automovil\bin\Debug\net6.0\Automovil.exe
+C:\Users\Anuar Espinoza\source\repos\Automovil\bin\Debug\net6.0\Automovil.deps.json
+C:\Users\Anuar Espinoza\source\repos\Automovil\bin\Debug\net6.0\Automovil.runtimeconfig.json
+C:\Users\Anuar Espinoza\source\repos\Automovil\bin\Debug\net6.0\Automovil.dll
+C:\Users\Anuar Espinoza\source\repos\Automovil\bin\Debug\net6.0\Automovil.pdb
+C:\Users\Anuar Espinoza\source\repos\Automovil\obj\Debug\net6.0\Automovil.dll
+C:\Users\Anuar Espinoza\source\repos\Automovil\obj\Debug\net6.0\refint\Automovil.dll
+C:\Users\Anuar Espinoza\source\repos\Automovil\obj\Debug\net6.0\Automovil.pdb
+C:\Users\Anuar Espinoza\source\repos\Automovil\obj\Debug\net6.0\Automovil.genruntimeconfig.cache
+C:\Users\Anuar Espinoza\source\repos\Automovil\obj\Debug\net6.0\ref\Automovil.dll
